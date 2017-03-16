@@ -1,0 +1,24 @@
+.producto{
+	width: 300px;
+	border-radius: 1px solid black;
+	position: relative;
+}
+
+.descuento{
+	width: 60px;
+	height: 60px;
+	background: red;
+	color: white;
+	font-size: 30px;
+	border-radius: 50%;
+	position: absolute;
+	top: 30px;
+	right: 30px;
+}
+
+.titulo{
+	width: 200px;
+	margin: 50px;
+	box-sizing: border-box;
+	display: inline-block;
+}
